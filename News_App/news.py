@@ -1,7 +1,7 @@
 import requests  # Import the requests module to make HTTP requests
 
 # API key for NewsAPI – make sure to keep this secure in real applications
-api = "e289f9f364d441129d963247ecd3ea62"  # Get your own API key from https://newsapi.org
+api = "xxxx"  # Get your own API key from https://newsapi.org
 
 # Take user input for the topic to search news about
 quary = input("Topic ?  ")
